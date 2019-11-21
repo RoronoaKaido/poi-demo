@@ -1,0 +1,6 @@
+
+Vsquid:S1854%"8Remove this useless assignment to local variable "row4".(±û¤¯8Õç¸Ú-
+hsquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(‚·Ú8æ§‘Ú-
+Gsquid:S1481%")Remove this unused "row4" local variable.(±û¤¯8Õç¸Ú-
+[squid:S1854+"8Remove this useless assignment to local variable "row5".(³«Ş×úÿÿÿÿ8’ò½Ú-
+Lsquid:S1481+")Remove this unused "row5" local variable.(³«Ş×úÿÿÿÿ8’ò½Ú-

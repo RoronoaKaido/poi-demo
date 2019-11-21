@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÒŞœøÿÿÿÿ8½ùèÍ-
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(êéƒÌùÿÿÿÿ8µŞêéÍ-
+]squid:S1854â"9Remove this useless assignment to local variable "index".(îÈğËúÿÿÿÿ8Û¼îèÍ-
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Û¼îèÍ-
+vsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(öªŞ“úÿÿÿÿ8Û¼îèÍ-

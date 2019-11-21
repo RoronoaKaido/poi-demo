@@ -1,0 +1,11 @@
+
+ksquid:CallToDeprecatedMethodK"7Remove this use of "getCellTypeEnum"; it is deprecated.(¡¤†ûÿÿÿÿ8«Ôê¯½-
+Ksquid:S1481"(Remove this unused "re1" local variable.(ŠµÇ›øÿÿÿÿ8óØğáÍ-
+fsquid:CallToDeprecatedMethodf"7Remove this use of "getCellTypeEnum"; it is deprecated.(°½ëÒ8·ºì¯½-
+Zsquid:S1854"7Remove this useless assignment to local variable "re1".(ŠµÇ›øÿÿÿÿ8óØğáÍ-
+ksquid:CallToDeprecatedMethoda"7Remove this use of "getCellTypeEnum"; it is deprecated.(Û¿Öµûÿÿÿÿ8«ÄË°½-
+ksquid:CallToDeprecatedMethodd"7Remove this use of "getCellTypeEnum"; it is deprecated.(á™ôÙùÿÿÿÿ8·ºì¯½-
+ksquid:CallToDeprecatedMethodh"7Remove this use of "getCellTypeEnum"; it is deprecated.(àËéşÿÿÿÿ8·ºì¯½-
+hsquid:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(×Ş•‘8Ğÿ·Ù-
+fsquid:CallToDeprecatedMethodj"7Remove this use of "getCellTypeEnum"; it is deprecated.(Ô­°Å8·ºì¯½-
+psquid:UselessImportCheck"ERemove this unused import 'org.apache.poi.xssf.streaming.SXSSFSheet'.(×Õóù8Å›ù¯½-
